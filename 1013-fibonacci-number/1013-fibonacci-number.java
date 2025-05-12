@@ -1,9 +1,19 @@
 class Solution {
     public int fib(int n) {
+        int[] memo = new int[n + 1];
+        return fibHelper(n, memo);
+    }
+    private int fibHelper(int n, int[] memo){
         if (n <= 1){
             return n;
         }
-        return fib(n - 1) + fib(n - 2);
+        if (memo[n] !=0){
+            return memo[n];
+        }
+
+        memo[n] = fibHelper(n - 1,memo) + fibHelper(n - 2,memo);
+        return memo[n];
+       
         
     }
 }
