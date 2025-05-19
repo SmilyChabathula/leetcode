@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/yaswanthi243/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/yaswanthi243/leetcode/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/yaswanthi243/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0777-toeplitz-matrix](https://github.com/yaswanthi243/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/yaswanthi243/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/yaswanthi243/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yaswanthi243/leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/yaswanthi243/leetcode/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/yaswanthi243/leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/yaswanthi243/leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/yaswanthi243/leetcode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yaswanthi243/leetcode/tree/master/1677-matrix-diagonal-sum) |
